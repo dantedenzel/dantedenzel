@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... YouTube
+- 🔭 I’m currently working on ... Pizza Parlor Project
 - 🌱 I’m currently learning ... Reactjs
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... Package Managers
