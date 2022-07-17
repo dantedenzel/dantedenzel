@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Pair programming
 - 💬 Ask me about ... My experience
 - 📫 How to reach me: ... [YouTube channel](https://www.youtube.com/user/Danteburnett/videos)
+    [Instagram](https://www.instagram.com/dantecodes)
 - ⚡ Fun fact: ... Superbad is the greatest movie  of all time 
 -->
