@@ -1,6 +1,5 @@
 ### Here is what I'm working on!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... QR Code based poll web applications
 - 🌱 I’m currently learning ... Reactjs to create a more modern front-end
