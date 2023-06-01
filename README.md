@@ -8,7 +8,6 @@ A Software Developer with 5 years of experience with Python and JavaScript | Ful
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [danteburnett@gmail.com](mailto:danteburnett@gmail.com)
-*   🧠  I'm learning REACT to create a more modern front-end### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
